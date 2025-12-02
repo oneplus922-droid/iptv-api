@@ -1,24 +1,34 @@
 🕘️更新时间,#genre#
-2025-12-02 06:41:35,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
+2025-12-02 18:51:11,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 
 📺央视频道,#genre#
 CCTV-1,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 CCTV-2,http://pull-skycorp.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNsNRHYvGhZHFxhSHx8cqakkdgd999.flv
-CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV-2,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226911/.m3u8
 CCTV-3,http://pull-skycorp.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNsNRHY3evb3dZyF.flv
+CCTV-3,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/.m3u8
 CCTV-4,http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
+CCTV-4,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226455/.m3u8
+CCTV-8,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/.m3u8
+CCTV-9,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226450/.m3u8
+CCTV-10,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226918/.m3u8
+CCTV-11,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/.m3u8
 CCTV-13,http://pull-skycorp.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONsNRHYLWazSU1kmL.flv
+CCTV-13,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/.m3u8
 CCTV-14,http://pull-skycorp.speedws.com/live/pyRhADNsNRHYlBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv
-CETV-1,http://60.223.72.140:8002/rtp/226.0.2.181:9360
-CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
+CCTV-14,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226904/.m3u8
+CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8
+CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
+CETV-1,http://60.223.72.140:8002/rtp/226.0.2.181:9360
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
 第一剧场,http://116.179.130.16:6001/rtp/226.0.2.221:9680
 怀旧剧场,http://221.205.180.120:8004/rtp/226.0.2.224:9704
+高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 高尔夫网球,http://221.205.180.120:8004/rtp/226.0.2.217:9648
 高尔夫网球,http://60.223.72.140:8002/rtp/226.0.2.217:9648
-高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 电视指南,http://60.223.72.140:8002/rtp/226.0.2.218:9656
 兵器科技,http://221.205.180.120:8004/rtp/226.0.2.223:9696
