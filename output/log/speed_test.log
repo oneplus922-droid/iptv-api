@@ -1,10 +1,5 @@
-Name: 兵器科技, URL: http://183.238.86.52:4022/rtp/239.11.0.57:1025, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-中山, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 风云足球, URL: http://183.238.86.52:4022/rtp/239.11.0.59:1025, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-中山, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 怀旧剧场, URL: http://183.238.86.52:4022/rtp/239.11.0.64:1025, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-中山, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 高尔夫网球, URL: http://221.205.180.120:8004/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 421 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: 怀旧剧场, URL: http://221.205.180.120:8004/rtp/226.0.2.224:9704, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 405 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 第一剧场, URL: http://116.179.130.16:6001/rtp/226.0.2.221:9680, From: subscribe, IPv_Type: ipv4, Location: 中国-山西, ISP: 联通, Date: None, Delay: 415 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: 兵器科技, URL: http://221.205.180.120:8004/rtp/226.0.2.223:9696, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 439 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: 高尔夫网球, URL: http://171.125.90.120:6001/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 462 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.143:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: 425 ms, Speed: 0.05 M/s, Resolution: 0x0
-Name: CCTV-1, URL: http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10070 ms, Speed: 0.18 M/s, Resolution: 1920x1080
+Name: 怀旧剧场, URL: http://221.205.180.120:8004/rtp/226.0.2.224:9704, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 413 ms, Speed: 0.51 M/s, Resolution: 1920x1080
+Name: 兵器科技, URL: http://221.205.180.120:8004/rtp/226.0.2.223:9696, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 444 ms, Speed: 0.39 M/s, Resolution: 1920x1080
+Name: 高尔夫网球, URL: http://221.205.180.120:8004/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 444 ms, Speed: 0.46 M/s, Resolution: 1920x1080
+Name: 第一剧场, URL: http://116.179.130.16:6001/rtp/226.0.2.221:9680, From: subscribe, IPv_Type: ipv4, Location: 中国-山西, ISP: 联通, Date: None, Delay: 422 ms, Speed: 0.47 M/s, Resolution: 1920x1080
+Name: 高尔夫网球, URL: http://171.125.90.120:6001/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 452 ms, Speed: 0.33 M/s, Resolution: 1920x1080
