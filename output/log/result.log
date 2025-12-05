@@ -1443,13 +1443,11 @@ Name: 怀旧剧场, URL: https://cc06.tv12.xyz/52.m3u8, From: subscribe, IPv_Typ
 Name: 怀旧剧场, URL: https://hls-gateway.vpstv.net/streams/708853.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 怀旧剧场, URL: https://mursor.ottiptv.cc/mcp/hjjc.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: Oracle Corporation, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 怀旧剧场, URL: http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 怀旧剧场, URL: http://221.205.180.120:8004/rtp/226.0.2.224:9704, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 443 ms, Speed: 0.27 M/s, Resolution: 1920x1080
 Name: 女性时尚, URL: https://cc06.tv12.xyz/95.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 女性时尚, URL: http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 高尔夫网球, URL: https://hls-gateway.vpstv.net/streams/708857.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 高尔夫网球, URL: http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 高尔夫网球, URL: http://171.125.90.120:6001/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 495 ms, Speed: 0.52 M/s, Resolution: 1920x1080
-Name: 高尔夫网球, URL: http://221.205.180.120:8004/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 466 ms, Speed: 0.21 M/s, Resolution: 1920x1080
+Name: 高尔夫网球, URL: http://171.125.90.120:6001/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 378 ms, Speed: 0.18 M/s, Resolution: 1920x1080
 Name: 风云足球, URL: https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 风云足球, URL: https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 风云足球, URL: http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1462,4 +1460,3 @@ Name: 世界地理, URL: http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.c
 Name: 世界地理, URL: https://cc06.tv12.xyz/104.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 兵器科技, URL: https://hls-gateway.vpstv.net/streams/708856.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 兵器科技, URL: http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 兵器科技, URL: http://221.205.180.120:8004/rtp/226.0.2.223:9696, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 470 ms, Speed: 0.20 M/s, Resolution: 1920x1080
