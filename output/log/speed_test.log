@@ -1,5 +1,9 @@
-Name: CCTV-9, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 420 ms, Speed: 2.86 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 441 ms, Speed: 3.40 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: https://play.kankanlive.com/live/1698423511884917.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 联通, Date: None, Delay: 1238 ms, Speed: 0.10 M/s, Resolution: 800x600
-Name: CCTV-10, URL: https://play.kankanlive.com/live/1698423445959919.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 联通, Date: None, Delay: 1242 ms, Speed: 0.14 M/s, Resolution: 800x600
-Name: 高尔夫网球, URL: http://171.125.90.120:6001/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 431 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 358 ms, Speed: 4.00 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 567 ms, Speed: 2.56 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 346 ms, Speed: 4.13 M/s, Resolution: 1280x720
+Name: CCTV-2, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 529 ms, Speed: 2.67 M/s, Resolution: 1280x720
+Name: 高尔夫网球, URL: http://171.125.90.120:6001/rtp/226.0.2.217:9648, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 525 ms, Speed: 0.18 M/s, Resolution: 1920x1080
+Name: 风云足球, URL: http://120.76.248.139/live/bfgd/4200000225.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2715 ms, Speed: 0.25 M/s, Resolution: 1280x720
+Name: 女性时尚, URL: http://120.76.248.139/live/bfgd/4200000176.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2486 ms, Speed: 0.26 M/s, Resolution: 1280x720
+Name: 怀旧剧场, URL: http://120.76.248.139/live/bfgd/4200000224.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2665 ms, Speed: 0.25 M/s, Resolution: 1280x720
+Name: 世界地理, URL: http://120.76.248.139/live/bfgd/4200000177.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 3592 ms, Speed: 0.23 M/s, Resolution: 1280x720
