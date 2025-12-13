@@ -1,4 +1,4 @@
-Category: 📺央视频道, Name: CCTV-1, Total: 81, Valid: 44, Valid Percent: 54.32%, Whitelist: 0, IPv4: 1, IPv6: 80, Min Delay: 0.1 ms, Max Speed: 3.41 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-1, Total: 81, Valid: 44, Valid Percent: 54.32%, Whitelist: 0, IPv4: 1, IPv6: 80, Min Delay: 0.1 ms, Max Speed: 4.72 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-2, Total: 99, Valid: 68, Valid Percent: 68.69%, Whitelist: 0, IPv4: 0, IPv6: 99, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-3, Total: 86, Valid: 54, Valid Percent: 62.79%, Whitelist: 0, IPv4: 0, IPv6: 86, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-4, Total: 117, Valid: 59, Valid Percent: 50.43%, Whitelist: 0, IPv4: 0, IPv6: 117, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -7,7 +7,7 @@ Category: 📺央视频道, Name: CCTV-5+, Total: 60, Valid: 41, Valid Percent: 
 Category: 📺央视频道, Name: CCTV-6, Total: 73, Valid: 35, Valid Percent: 47.95%, Whitelist: 0, IPv4: 0, IPv6: 73, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-7, Total: 92, Valid: 60, Valid Percent: 65.22%, Whitelist: 0, IPv4: 0, IPv6: 92, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-8, Total: 83, Valid: 47, Valid Percent: 56.63%, Whitelist: 0, IPv4: 0, IPv6: 83, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-9, Total: 97, Valid: 60, Valid Percent: 61.86%, Whitelist: 0, IPv4: 1, IPv6: 96, Min Delay: 0.1 ms, Max Speed: 3.82 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-9, Total: 97, Valid: 60, Valid Percent: 61.86%, Whitelist: 0, IPv4: 1, IPv6: 96, Min Delay: 0.1 ms, Max Speed: 4.14 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-10, Total: 92, Valid: 57, Valid Percent: 61.96%, Whitelist: 0, IPv4: 0, IPv6: 92, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-11, Total: 101, Valid: 66, Valid Percent: 65.35%, Whitelist: 0, IPv4: 0, IPv6: 101, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-12, Total: 99, Valid: 64, Valid Percent: 64.65%, Whitelist: 0, IPv4: 0, IPv6: 99, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -27,7 +27,7 @@ Category: 💰央视付费频道, Name: 第一剧场, Total: 5, Valid: 0, Valid 
 Category: 💰央视付费频道, Name: 风云剧场, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 💰央视付费频道, Name: 怀旧剧场, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 💰央视付费频道, Name: 女性时尚, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 💰央视付费频道, Name: 高尔夫网球, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 518 ms, Max Speed: 0.16 M/s, Avg Speed: 0.16 M/s, Max Resolution: 1920x1080
+Category: 💰央视付费频道, Name: 高尔夫网球, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 482 ms, Max Speed: 0.08 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
 Category: 💰央视付费频道, Name: 风云足球, Total: 6, Valid: 4, Valid Percent: 66.67%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 💰央视付费频道, Name: 电视指南, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 💰央视付费频道, Name: 世界地理, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
