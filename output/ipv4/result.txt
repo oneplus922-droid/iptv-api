@@ -1,26 +1,20 @@
 🕘️更新时间,#genre#
-2026-02-18 18:50:49,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-02-19 06:36:58,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-4,http://cctv.sohu.blog/ysxw.php?id=cctv4k&q=lg
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-CCTV-11,http://23.237.228.134/live3/CCTV11.m3u8
-CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
