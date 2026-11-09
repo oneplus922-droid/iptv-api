@@ -1,15 +1,29 @@
 🕘️更新时间,#genre#
-2026-11-09 09:30:29,http://45.192.97.170:8880/play/444.m3u8
+2026-11-10 04:31:17,http://45.192.97.170:8880/play/444.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://45.192.97.170:8880/play/444.m3u8
-CCTV-5,http://45.192.97.170:8880/play/410.m3u8
+CCTV-5+,http://45.192.97.170:8880/play/197.m3u8
 CCTV-8,http://173.208.234.146/live/cctv8.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1e04d806e0db87e87ed05b313e1b3694
+CCTV-9,http://36.136.38.87:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+CETV-1,http://27.22.35.13:7788/923287154
+CETV-1,http://115.217.251.87:3000/923287154
+CETV-1,http://175.169.113.102:1234/923287154
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+CETV-2,http://175.169.113.102:1234/923287211
+CETV-2,http://27.22.35.13:7788/923287211
+CETV-2,http://115.217.251.87:3000/923287211
+CETV-4,http://27.22.35.13:7788/923287339
+CETV-4,http://115.217.251.87:3000/923287339
+CETV-4,http://175.169.113.102:1234/923287339
 
 💰央视付费频道,#genre#
-风云音乐,http://45.192.97.170:8880/play/433.m3u8
+文化精品,http://204.12.221.218:8181/3m1080p/ysjp.m3u8
+风云音乐,http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
 第一剧场,http://zby.lskk.top/cdnlive.php?mode=play&id=dfc5e2217c10d2abe2ed38e3c2ccde04&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+怀旧剧场,http://45.192.97.170:8880/play/474.m3u8
 女性时尚,http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
+世界地理,http://45.192.97.170:8880/play/473.m3u8
