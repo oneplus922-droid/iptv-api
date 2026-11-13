@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-11-13 10:28:02,http://45.192.97.170:8880/play/197.m3u8
+2026-11-14 01:33:52,http://45.192.97.170:8880/play/196.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://45.192.97.170:8880/play/197.m3u8
 CCTV-5,http://45.192.97.170:8880/play/196.m3u8
+CCTV-5,http://45.192.97.170:8880/play/197.m3u8
 CCTV-6,http://45.192.97.170:8880/play/446.m3u8
 CCTV-8,http://173.208.234.146/live/cctv8.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
